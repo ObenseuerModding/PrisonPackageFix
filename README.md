@@ -1,5 +1,8 @@
 # Prison Package Fix
 
+> [!IMPORTANT]
+> This mod is not needed in the latest game version, the devs have patched the issue it used to fix
+
 Simply adds can openers to each prison package that can be spawned in while in prison
 
 ## Installing
